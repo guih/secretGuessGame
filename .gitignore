@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse specific settings
+.classpath
+.project
+.settings/
+
+# Java bytecode
+target/
